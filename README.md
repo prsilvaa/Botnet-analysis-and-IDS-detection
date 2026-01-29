@@ -36,7 +36,7 @@ I successfully deployed and analysed both a provided botnet sample and a custom 
 
 <div align="center">
     <h3>Botnet Testbed Environment</h3>
-    <img src="botnet_environment.png" alt="Botnet testbed environment" height="80%" width="80%">
+    <img src="bot_environment.png" alt="Botnet testbed environment" height="80%" width="80%">
     <p>Isolated virtual machines configured for bot and controller communication.</p>
 </div>
 
