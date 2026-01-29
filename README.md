@@ -1,5 +1,3 @@
-# Botnet-analysis-and-IDS-detection
-
 <h1>
     <a href="https://github.com/prsilvaa/botnet-analysis-and-ids-detection" target="_blank">
         Botnet Analysis and IDS Detection
