@@ -1,5 +1,5 @@
 <h1>
-    <a href="https://github.com/prsilvaa/botnet-analysis-and-ids-detection" target="_blank">
+    <a href="https://github.com/prsilvaa" target="_blank">
         Botnet Analysis and IDS Detection
     </a>
 </h1>
