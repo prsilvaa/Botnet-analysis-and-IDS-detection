@@ -36,19 +36,19 @@ I successfully deployed and analysed both a provided botnet sample and a custom 
 
 <div align="center">
     <h3>Botnet Testbed Environment</h3>
-    <img src="bot_environment.png" alt="Botnet testbed environment" height="40%" width="40%">
+    <img src="bot_environment.png" alt="Botnet testbed environment" height="50%" width="50%">
     <p>Isolated virtual machines configured for bot and controller communication.</p>
 </div>
 
 <div align="center">
     <h3>Network Traffic Analysis</h3>
-    <img src="wireshark_botnet.png" alt="Wireshark botnet traffic analysis" height="80%" width="80%">
+    <img src="wireshark_botnet.png" alt="Wireshark botnet traffic analysis" height="60%" width="60%">
     <p>Captured and filtered botnet command-and-control traffic using Wireshark.</p>
 </div>
 
 <div align="center">
     <h3>Snort IDS Detection</h3>
-    <img src="snort_alerts.png" alt="Snort IDS alerts" height="80%" width="80%">
+    <img src="snort_alerts.png" alt="Snort IDS alerts" height="50%" width="50%">
     <p>Custom Snort rules detecting botnet activity and generating alerts.</p>
 </div>
 
